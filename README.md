@@ -1,5 +1,5 @@
 <H2>CalcFin em Kotlin</H2>
-Por Fernando Anselmo
+<i>Por Fernando Anselmo</i>
 
 Exemplo em Kotlin para a implementação de uma Calculadora Financeira.
 
