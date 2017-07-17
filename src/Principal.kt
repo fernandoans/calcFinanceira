@@ -1,4 +1,5 @@
 /**
- * Calculadora Financeira
- * Janela Inicial
+ * Projeto: Calculadora Financeira
+ * Função: Janela Inicial
+ * Vídeo Disponível:
  */
